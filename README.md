@@ -11,5 +11,5 @@ I'm studying web programming at the National University of La Matanza - Buenos A
 * GIT
 
 #### Contact
-Email : francojreynoso@gmail.com
+Email : francojreynoso@gmail.com <br>
 LinkedIn : https://www.linkedin.com/in/franco-reynoso-caama%C3%B1o-9a2539166/
