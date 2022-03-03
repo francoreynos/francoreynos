@@ -4,6 +4,7 @@ Hi! Welcome to my page, I'm a web developer currently working for a company call
 I'm studying web programming at the National University of La Matanza - Buenos Aires (about to graduate).
 
 ### I've developed projects using different technologies:
+* Technologies: Wordpress, PringBoot.
 * Frontend: HTML, CSS, Javascript, Jquery, BootStrap.
 * Backend: Java, C#, NodeJS, PHP.
 * Database: MySQL, SQLServer.
