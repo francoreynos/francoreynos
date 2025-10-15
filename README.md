@@ -1,6 +1,6 @@
 # Franco Reynoso
 ## About me
-Hi! Welcome to my page, I'm a web developer currently working for a company called SanityCare.
+Hi! Welcome to my page, I'm a web developer currently working for a company called Pimo Media.
 I'm studying web programming at the National University of La Matanza - Buenos Aires (about to graduate).
 
 ### I've developed projects using different technologies:
